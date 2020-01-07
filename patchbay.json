@@ -6,7 +6,7 @@
         "identifier": "AGPL-3.0-only",
         "url": "https://github.com/ssbc/patchwork/blob/master/LICENSE"
     },
-    "notes": "Contribute to the Patchwork Open Collective at: https://opencollective.com/patchbay",
+    "notes": "Contribute to the Patchbay Open Collective at: https://opencollective.com/patchbay",
     "bin": "patchbay.exe",
     "shortcuts": [
         [
