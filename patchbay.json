@@ -7,10 +7,10 @@
         "url": "https://github.com/ssbc/patchwork/blob/master/LICENSE"
     },
     "notes": "Contribute to the Patchwork Open Collective at: https://opencollective.com/patchbay",
-    "bin": "patchwork.exe",
+    "bin": "patchbay.exe",
     "shortcuts": [
         [
-            "Patchbay.exe",
+            "patchbay.exe",
             "Patchbay"
         ]
     ],
@@ -28,7 +28,7 @@
         ]
     },
     "uninstaller": {
-        "file": "Uninstall Patchbay.exe"
+        "file": "Uninstall patchbay.exe"
         
     }
 }
